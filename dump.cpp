@@ -23,3 +23,8 @@ Server is full > metin2f-Win64-Shipping.exe+8DE277
 |{Username Password}
 Namespace : \x45\x7A\x67\x69\x7C\x59\x65\x6C\x6C\x6F\x77\x65\x73\x31\x32\x33\x7C\x61\x38\x35\x65\x34\x35\x65\x36\x62\x37\x33\x36\x7C\x37\x05
 Mask : xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Engine : 7ff77cf70000
+Names : 7ff780c12540
+Obje : 7FF780C4E9E0
+World : 7FF780D92258
